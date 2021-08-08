@@ -17,6 +17,13 @@ php artisan migrate:fresh
 php artisan serve
 ```
 
+## Technologies: 
+ - Laravel
+ - React
+ - MySQL
+
+
+
 
 ## Author
 
