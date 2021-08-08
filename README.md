@@ -1,7 +1,23 @@
-## php artisan serve
-For running project on local environment
-## yarn watch | npm run watch
-For local development need to run this command for continous build on any change
 
-## yarn dev | npm run dev
-For Running project on localhost
+# Quiz - App
+### Installation
+
+```bash
+composer install
+```
+```bash
+npm install
+```
+
+### Run Application
+```bash
+php artisan migrate:fresh
+```
+```bash
+php artisan serve
+```
+
+
+## Author
+
+- [@sakandertamoor](https://www.github.com/sakandertamoor)
