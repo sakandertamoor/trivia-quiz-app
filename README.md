@@ -19,7 +19,7 @@ php artisan serve
 
 ## Technologies: 
  - Laravel
- - React
+ - React (material-ui)
  - MySQL
 
 
